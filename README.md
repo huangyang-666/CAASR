@@ -8,6 +8,8 @@ CAASR is dedicated to promoting the use of super resolution in animation. We con
 
 :surfer: Installation：
 
+:innocent: ADASR Dataset：
+
 :hearts: Fast Inference：
 
 :clubs: Pretrain Weight：
