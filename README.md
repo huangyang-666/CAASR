@@ -1,24 +1,25 @@
 # CAASR: A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment 
 CAASR: 
+CAASR is dedicated to promoting the use of super resolution in animation. We contribute a training method and a modernized dataset dedicated to animation super-resolution.
 
-Update：
+:dart: Update：
 
-Visualization：
+:book: Visualization：
 
-Installation：
+:surfer: Installation：
 
-Fast Inference：
+:hearts: Fast Inference：
 
-Pretrain Weight：
+:clubs: Pretrain Weight：
 
-Train：
+:tophat: Train：
 
-Test：
+:beer: Test：
 
-Citation：
+:chocolate_bar: Citation：
 
-License：
+:house: License：
 
-Acknowledgement：
+:rocket: Acknowledgement：
 
 :airplane: We will continue to refine this project over time, and we encourage each reader to further explore the application of advanced super-resolution methods in animation.
