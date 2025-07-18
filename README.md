@@ -15,8 +15,11 @@ CAASR is dedicated to promoting the use of super resolution in animation. We con
 :clubs: Pretrain Weight：
 
 :tophat: Train：
+We recommend that users set degradation factors and models at different scales depending on the use case
 
 :beer: Test：
+
+:wrench: Tools：
 
 :chocolate_bar: Citation：
 
