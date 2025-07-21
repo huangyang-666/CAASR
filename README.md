@@ -12,13 +12,13 @@ CAASR is a benchmark designed to push the boundaries of super-resolution for ani
 
 :hearts: Fast Inference：Evaluation data can be downloaded from: https://pan.baidu.com/s/1eJf7BE3VUb-3LebW_M5weQ (password: a135)
 
-:clubs: Pretrain Weight：Pretrained models for 2D and 3D animation are provided here: https://pan.baidu.com/s/15eUi6gR8jhOxj3Q9OQDpYQ (password: a135). Pretrained weights for baseline methods can be found at: https://pan.baidu.com/s/1vOxc1WJBe0TjKwrwexp9EQ (password: a135)
+:clubs: Pretrain Weight：Pretrained models for 2D and 3D animation are provided here: https://pan.baidu.com/s/15eUi6gR8jhOxj3Q9OQDpYQ (password: a135). Pretrained weights for comparison methods can be found at: https://pan.baidu.com/s/1vOxc1WJBe0TjKwrwexp9EQ (password: a135)
 
 :tophat: Train：  
 We recommend adjusting degradation settings and selecting model scales based on your specific use case and content domain.
 
 :beer: Test：  
-We use [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for all perceptual quality evaluation. Default settings are used for 2D content. For 3D animations, we fine-tune MANIQA and TReS; the corresponding weights can be downloaded here: https://pan.baidu.com/s/1Xh88m2Eubp7m3ergzs8rrA (password: a135)
+We use [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for all perceptual quality evaluation. Default settings are used for 2D content. For 3D animations, we fine-tune MANIQA and TReS, the corresponding weights can be downloaded here: https://pan.baidu.com/s/1r071-EV3nqnrdmkoXgI8DQ (password: a135)
 
 :wrench: Tools：
 
