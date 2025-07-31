@@ -4,13 +4,10 @@ CAASR is a benchmark designed to advance the frontier of animation super-resolut
 
 :dart: Update：
 
-  :ok_hand: Tools Will Coming Soon
-  
-  :white_check_mark: 2025.7.26  Pretrained Weight Added
-  
-  :white_check_mark: 2025.7.25  Data Added
-  
-  :white_check_mark: 2025.7.21  Code Added
+- :ok_hand: Tools Will Coming Soon
+- :white_check_mark: 2025.7.26  Pretrained Weight Added
+- :white_check_mark: 2025.7.25  Data Added
+- :white_check_mark: 2025.7.21  Code Added
   
 :book: Visualization：
 
