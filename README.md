@@ -14,17 +14,17 @@ CAASR is a benchmark designed to advance the frontier of animation super-resolut
 :surfer: Installation：
 
 :innocent: ADASR Dataset：  
-The complete training dataset, encompassing both 2D and 3D animation sequences, is available via  
+ - The complete training dataset, encompassing both 2D and 3D animation sequences, is available via  
 [Baidu Drive](https://pan.baidu.com/s/1wLWdVZdZhgL2OO2ADaWlLw) (code: `a135`)
 
 :hearts: Fast Inference：  
-The evaluation dataset can be accessed through  
+ - The evaluation dataset can be accessed through  
 [Baidu Drive](https://pan.baidu.com/s/1eJf7BE3VUb-3LebW_M5weQ) (code: `a135`)
 
 :clubs: Pretrain Weight：  
-Pretrained models for both 2D and 3D animation are available via  
+ - Pretrained models for both 2D and 3D animation are available via  
 [Baidu Drive](https://pan.baidu.com/s/15eUi6gR8jhOxj3Q9OQDpYQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1m8hNSFWLprjF1EO4jIwE9yEEOLKch9NW?usp=drive_link).
-Weights for comparison methods can be found here:  
+ - Weights for comparison methods can be found here:  
 [Baidu Drive](https://pan.baidu.com/s/1vOxc1WJBe0TjKwrwexp9EQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1MMld17E4Q6DcbUSENTQdiprEVKBp5t1Y?usp=drive_link)
 
 :tophat: Train：  
