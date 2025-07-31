@@ -3,7 +3,10 @@ CAASR:
 CAASR is a benchmark designed to advance the frontier of animation super-resolution. It features a high-quality dataset and a dedicated training pipeline for both 2D and 3D animated content, emphasizing color degradation, frequency alignment, and scale adaptability.
 
 :dart: Update：
-
+  :ok_hand: Tools Will Coming Soon
+  :white_check_mark: 2025.7.26  Pretrained Weight Added
+  :white_check_mark: 2025.7.25  Data Added
+  :white_check_mark: 2025.7.21  Code Added
 :book: Visualization：
 
 :surfer: Installation：
