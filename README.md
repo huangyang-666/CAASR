@@ -28,10 +28,10 @@ CAASR is a benchmark designed to advance the frontier of animation super-resolut
 [Baidu Drive](https://pan.baidu.com/s/1vOxc1WJBe0TjKwrwexp9EQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1MMld17E4Q6DcbUSENTQdiprEVKBp5t1Y?usp=drive_link)
 
 :tophat: Train：  
-We recommend configuring degradation strategies and selecting scale-aware architectures based on the characteristics of your content and downstream tasks.
+ - We recommend configuring degradation strategies and selecting scale-aware architectures based on the characteristics of your content and downstream tasks.
 
 :beer: Test：  
-We adopt [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for perceptual quality assessment. For 2D animation, default configurations are applied. For 3D content, we provide fine-tuned versions of MANIQA and TReS. The corresponding model weights are available here:  
+ - We adopt [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for perceptual quality assessment. For 2D animation, default configurations are applied. For 3D content, we provide fine-tuned versions of MANIQA and TReS. The corresponding model weights are available here:  
 [Baidu Drive](https://pan.baidu.com/s/1r071-EV3nqnrdmkoXgI8DQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/115nK64ch1jTkqC3YqhDw9Z6eSAiVO6KK?usp=drive_link)
 
 :wrench: Tools：
@@ -42,4 +42,5 @@ We adopt [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for perceptual qualit
 
 :rocket: Acknowledgement：
 
-:airplane: This project remains under continuous development. We invite the community to explore and expand the use of state-of-the-art super-resolution techniques in both academic and production-grade animation workflows.
+:airplane: This project remains under continuous development. 
+ - We invite the community to explore and expand the use of state-of-the-art super-resolution techniques in both academic and production-grade animation workflows.
