@@ -66,7 +66,7 @@ It features a high-quality dataset and a dedicated training pipeline for both 2D
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{jiang2025animationSR,
+@article{animationSR,
   title   = {{A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment}},
   author  = {Jiang, Yu and Zhang, Yongji and Li, Siqi and Huang, Yang and Wang, Yuehang and Yao, Yutong and Gao, Yue},
   journal = {IEEE Transactions on Image Processing},
