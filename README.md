@@ -1,42 +1,69 @@
 # CAASR: A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment (TIP 2025)
-CAASR:  
-CAASR is a benchmark designed to advance the frontier of animation super-resolution. It features a high-quality dataset and a dedicated training pipeline for both 2D and 3D animated content, emphasizing color degradation, frequency alignment, and scale adaptability.
 
-:dart: Update：
+**CAASR** is a benchmark designed to advance the frontier of animation super-resolution.  
+It features a high-quality dataset and a dedicated training pipeline for both 2D and 3D animated content, with a focus on **color degradation**, **frequency alignment**, and **scale adaptability**.
 
-- :ok_hand: Tools Will Coming Soon
-- :white_check_mark: 2025.7.26  Pretrained Weight Added
-- :white_check_mark: 2025.7.25  Data Added
-- :white_check_mark: 2025.7.21  Code Added
-  
-:book: Visualization：
+---
 
-:surfer: Installation：
+## :dart: Updates
+- :ok_hand: Tools Coming Soon
+- :white_check_mark: **2025.07.26** – Pretrained Weights Added
+- :white_check_mark: **2025.07.25** – Dataset Added
+- :white_check_mark: **2025.07.21** – Code Released
 
-:innocent: ADASR Dataset：  
- - The complete training dataset, encompassing both 2D and 3D animation sequences, is available via  
-[Baidu Drive](https://pan.baidu.com/s/1wLWdVZdZhgL2OO2ADaWlLw) (code: `a135`)
+---
 
-:hearts: Fast Inference：  
- - The evaluation dataset can be accessed through  
-[Baidu Drive](https://pan.baidu.com/s/1eJf7BE3VUb-3LebW_M5weQ) (code: `a135`)
+## :book: Visualization
+*(Coming Soon)*
 
-:clubs: Pretrain Weight：  
- - Pretrained models for both 2D and 3D animation are available via  
-[Baidu Drive](https://pan.baidu.com/s/15eUi6gR8jhOxj3Q9OQDpYQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1m8hNSFWLprjF1EO4jIwE9yEEOLKch9NW?usp=drive_link).
- - Weights for comparison methods can be found here:  
-[Baidu Drive](https://pan.baidu.com/s/1vOxc1WJBe0TjKwrwexp9EQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1MMld17E4Q6DcbUSENTQdiprEVKBp5t1Y?usp=drive_link)
+---
 
-:tophat: Train：  
- - We recommend configuring degradation strategies and selecting scale-aware architectures based on the characteristics of your content and downstream tasks.
+## :surfer: Installation
+*(Instructions Coming Soon)*
 
-:beer: Test：  
- - We adopt [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for perceptual quality assessment. For 2D animation, default configurations are applied. For 3D content, we provide fine-tuned versions of MANIQA and TReS. The corresponding model weights are available here:  
-[Baidu Drive](https://pan.baidu.com/s/1r071-EV3nqnrdmkoXgI8DQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/115nK64ch1jTkqC3YqhDw9Z6eSAiVO6KK?usp=drive_link)
+---
 
-:wrench: Tools：
+## :innocent: ADASR Dataset
+- **Full Training Dataset** (2D & 3D animation sequences):  
+  [Baidu Drive](https://pan.baidu.com/s/1wLWdVZdZhgL2OO2ADaWlLw) (code: `a135`)
 
-:chocolate_bar: Citation：
+---
+
+## :hearts: Fast Inference
+- **Evaluation Dataset**:  
+  [Baidu Drive](https://pan.baidu.com/s/1eJf7BE3VUb-3LebW_M5weQ) (code: `a135`)
+
+---
+
+## :clubs: Pretrained Weights
+- **Pretrained Models** (2D & 3D animation):  
+  [Baidu Drive](https://pan.baidu.com/s/15eUi6gR8jhOxj3Q9OQDpYQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1m8hNSFWLprjF1EO4jIwE9yEEOLKch9NW?usp=drive_link)  
+- **Weights for Comparison Methods**:  
+  [Baidu Drive](https://pan.baidu.com/s/1vOxc1WJBe0TjKwrwexp9EQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/1MMld17E4Q6DcbUSENTQdiprEVKBp5t1Y?usp=drive_link)
+
+---
+
+## :tophat: Training
+- Configure degradation strategies and choose scale-aware architectures according to your animation content and downstream tasks.
+
+---
+
+## :beer: Testing
+- We adopt [PYIQA](https://github.com/chaofengc/IQA-PyTorch) for perceptual quality assessment.
+- **2D Animation**: Default configurations are applied.  
+- **3D Animation**: Fine-tuned MANIQA and TReS models are provided.  
+  [Baidu Drive](https://pan.baidu.com/s/1r071-EV3nqnrdmkoXgI8DQ) (code: `a135`) | [Google Drive](https://drive.google.com/drive/folders/115nK64ch1jTkqC3YqhDw9Z6eSAiVO6KK?usp=drive_link)
+
+---
+
+## :wrench: Tools
+*(Coming Soon)*
+
+---
+
+## :chocolate_bar: Citation
+
+If you find our work useful, please consider citing:
 
 ```bibtex
 @article{jiang2025animationSR,
@@ -45,11 +72,3 @@ CAASR is a benchmark designed to advance the frontier of animation super-resolut
   journal = {IEEE Transactions on Image Processing},
   year    = {2025}
 }
-
-
-:house: License：
-
-:rocket: Acknowledgement：
-
-:airplane: This project remains under continuous development. 
- - We invite the community to explore and expand the use of state-of-the-art super-resolution techniques in both academic and production-grade animation workflows.
