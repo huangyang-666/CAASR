@@ -46,6 +46,7 @@ CAASR is a benchmark designed to advance the frontier of animation super-resolut
   year    = {2025}
 }
 
+
 :house: License：
 
 :rocket: Acknowledgement：
