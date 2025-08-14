@@ -1,4 +1,4 @@
-# CAASR: A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment  
+# CAASR: A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment (TIP 2025)
 CAASR:  
 CAASR is a benchmark designed to advance the frontier of animation super-resolution. It features a high-quality dataset and a dedicated training pipeline for both 2D and 3D animated content, emphasizing color degradation, frequency alignment, and scale adaptability.
 
@@ -37,6 +37,14 @@ CAASR is a benchmark designed to advance the frontier of animation super-resolut
 :wrench: Tools：
 
 :chocolate_bar: Citation：
+
+```bibtex
+@article{jiang2025animationSR,
+  title   = {{A Real-World Animation Super-Resolution Benchmark with Color Degradation and Multi-Scale Multi-Frequency Alignment}},
+  author  = {Jiang, Yu and Zhang, Yongji and Li, Siqi and Huang, Yang and Wang, Yuehang and Yao, Yutong and Gao, Yue},
+  journal = {IEEE Transactions on Image Processing},
+  year    = {2025}
+}
 
 :house: License：
 
